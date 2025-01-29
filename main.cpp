@@ -11,6 +11,6 @@
  */ 
 
 int main() {
-	cout << "Hello Programming II"; 
+	cout << "Bitti means Done as Turkish."; 
 	return 0; 
 }
